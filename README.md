@@ -15,6 +15,7 @@
 
 <h2>O que estou estudando?</h2>
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="32" width="32">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30" width="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30" width="30">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="30" >
@@ -26,6 +27,6 @@
   
 <h2>Quem sou eu?</h2>
             <p>
-                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 18 anos, sou estudante na área da Informática, atualmente interessado no desenvolvimento web. Estou no 4° e último ano do Curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná (campus Londrina). Atualmente crio sites utilizando Wordpress. Estou estudando HTML5 e CSS3, pretendendendo seguir para JavaScript para web. Estou estudando também SOs de kernel Linux, GIT e Python. Eu também gosto muito de café, de coxinha e de Thrash Metal. Eu não sei quase nada sobre muita coisa, mas sei alguma coisa sobre quase nada (pelo menos ainda).
-                <p><em>- 16 de setembro de 2021</em></p>
+                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 18 anos, sou estudante na área da Informática, atualmente interessado no desenvolvimento web. Estou no 4° e último ano do Curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná (campus Londrina). Atualmente crio sites utilizando Wordpress. Estou estudando HTML5, CSS3 e JavaScript. Estou estudando também Linux desktop, GIT e Python. Eu também gosto muito de café, de coxinha e de Thrash Metal. Eu não sei quase nada sobre muita coisa, mas sei alguma coisa sobre quase nada (pelo menos ainda).
+                <p><em>- 12 de outubro de 2021</em></p>
             </p>
