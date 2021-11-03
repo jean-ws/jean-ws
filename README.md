@@ -27,6 +27,6 @@
   
 <h2>Quem sou eu?</h2>
             <p>
-                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 18 anos, sou estudante na área da Informática, atualmente interessado no desenvolvimento web. Estou no 4° e último ano do Curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná (campus Londrina). Atualmente crio sites utilizando Wordpress. Estou estudando HTML5, CSS3 e JavaScript. Estou estudando também Linux desktop, GIT e Python. Eu também gosto muito de café, de coxinha e de Thrash Metal. Eu não sei quase nada sobre muita coisa, mas sei alguma coisa sobre quase nada (pelo menos ainda).
-                <p><em>- 12 de outubro de 2021</em></p>
+                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 18 anos, sou estudante na área da Informática, atualmente interessado no desenvolvimento web. Estou no 4° e último ano do Curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná (campus Londrina). Atualmente crio sites utilizando Wordpress. Estou estudando HTML5, CSS3 e JavaScript. Estou estudando também Linux desktop, GIT e Python. Eu também gosto muito de café, de coxinha e de Metal.
+                <p><em>- 02 de novembro de 2021</em></p>
             </p>
