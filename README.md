@@ -1,17 +1,10 @@
 
 <h1>Oi, eu sou o Jean! 🖐️</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jean.justanotheruser/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071531963286)
-
-
 <ul>
     <li>🗺️Londrina | PR<br></li>
     <li>📝TI | IFPR | campus Londrina<br></li>
-    <li>💻<a href="https://emplacandosites.com">Virtual Boost | criação de websites</a></li>
 </ul>
-
-
 
 <h2>O que estou estudando?</h2>
 <p>
@@ -27,6 +20,6 @@
   
 <h2>Quem sou eu?</h2>
             <p>
-                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 18 anos, sou estudante na área da Informática, atualmente interessado no desenvolvimento web. Estou no 4° e último ano do Curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná (campus Londrina). Atualmente crio sites utilizando Wordpress. Estou estudando HTML5, CSS3 e JavaScript. Estou estudando também Linux desktop, GIT e Python. Eu também gosto muito de café, de coxinha e de Metal.
-                <p><em>- 02 de novembro de 2021</em></p>
+                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 18 anos, sou estudante na área da Informática. Estou no 4° e último ano do Curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná (campus Londrina). Atualmente crio sites utilizando Wordpress. Estou estudando HTML5, CSS3 e JavaScript. Estou estudando também Linux desktop, GIT e Python. Eu também gosto muito de café, de coxinha e de Metal.
+                <p><em>- 15 de abril de 2022</em></p>
             </p>
