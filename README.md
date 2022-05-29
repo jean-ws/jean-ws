@@ -3,8 +3,8 @@
 
 <ul>
     <li>🗺️Londrina | PR<br></li>
-    <li>📝ADS | IFPR | campus Londrina | cursando<br></li>
-    <li>📝TI | IFPR | campus Londrina | concluído<br></li>
+    <li>📝Análise e Desenvolvimento de Sistemas | IFPR | campus Londrina | cursando<br></li>
+    <li>📝Técnico em Informática | IFPR | campus Londrina | concluído<br></li>
 </ul>
 
 <h2>O que estou estudando?</h2>
