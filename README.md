@@ -26,6 +26,6 @@
   
 <h2>Quem sou eu?</h2>
             <p>
-                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 19 anos, sou estudante na área da Informática. Estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Parańa. Concluí o Curso Técnico em Informática Integrado ao Ensino Médio também no Instituto Federal do Paraná.
+                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 19 anos, sou estudante na área da Informática. Estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Parańa. Trabalho atualmente como Suporte Técnico ao Usuário na Atos Brasil. Concluí o Curso Técnico em Informática Integrado ao Ensino Médio também no Instituto Federal do Paraná.
                 <p><em>- 11 de novembro de 2022</em></p>
             </p>
