@@ -19,13 +19,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<div align="left">
-  <a href="https://github.com/jean-ws">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jean-ws&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-ws&layout=compact&langs_count=7&theme=dark"/>
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=jean-ws&theme=dark&hide_border=true" alt="jean-ws" />
-</div>
- 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-ws&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=jean-ws&theme=dark&hide_border=true" alt="jean-ws" />
+
 <h3>Quem sou eu?</h2>
             <p>
                 Meu nome é <strong>Jean Wilson Silva</strong>, tenho 19 anos, sou estudante na área da Informática. Estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Parańa. Trabalho atualmente como Suporte Técnico ao Usuário na Atos Brasil. Concluí o Curso Técnico em Informática Integrado ao Ensino Médio também no Instituto Federal do Paraná.
