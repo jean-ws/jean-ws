@@ -3,9 +3,9 @@
 
 <ul>
     <li>🗺️ Londrina | PR<br></li>
-    <li>📝 Análise e Desenvolvimento de Sistemas | IFPR | campus Londrina | cursando<br></li>
+    <li>💻 Team Leader de Equipe de Suporte ao Usuário | Atos | Londrina</li>
     <li>📝 Técnico em Informática | IFPR | campus Londrina | concluído<br></li>
-    <li>💻 Técnico de Suporte ao Usuário | Atos | Londrina</li>
+    <li>📝 Tecnólogo em Análise e Desenvolvimento de Sistemas | IFPR | campus Londrina | incompleto<br></li>
 </ul>
 
 <h3>Skills</h2>
@@ -19,10 +19,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-ws&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=jean-ws&theme=dark&hide_border=true" alt="jean-ws" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=jean-ws&theme=dark&hide_border=true" alt="jean-ws" />
 
 <h3>Quem sou eu?</h2>
             <p>
-                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 19 anos, sou estudante na área da Informática. Estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Parańa. Trabalho atualmente como Suporte Técnico ao Usuário na Atos Brasil. Concluí o Curso Técnico em Informática Integrado ao Ensino Médio também no Instituto Federal do Paraná.
-                <p><em>- 11 de novembro de 2022</em></p>
+                Meu nome é <strong>Jean Wilson Silva</strong>, tenho 22 anos, sou profissional na área da Informática. Trabalho atualmente como Líder de Equipe de Suporte Técnico ao Usuário na Atos Brasil. Concluí o Curso Técnico em Informática Integrado ao Ensino Médio também no Instituto Federal do Paraná.
+                <p><em>fevereiro de 2026</em></p>
             </p>
